@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/ianlenehan-demo/ianlenehan-demo/master/Github banner.png" alt="banner that says Ian Lenehan - frontend developer">
+
 ### Hi there 👋
 
 **ianlenehan-demo/ianlenehan-demo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,3 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Developer GIF](https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif)
+
+### My Github Stats
+![Ian's Demo GitHub stats](https://github-readme-stats.vercel.app/api?username=ianlenehan-demo&hide=contribs,prs)
